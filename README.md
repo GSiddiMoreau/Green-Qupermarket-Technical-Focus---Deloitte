@@ -18,7 +18,7 @@ Team Qrious
 
 Components                      DiscordID           GithubID        Email
 -----------------------------------------------------------------------------------------------
-Vaishnavi Manohar Chandilkar    Vish#6442           Snuag                           
+Vaishnavi Manohar Chandilkar    Vish#6442           Snuag            vchandilkar@gmail.com               
 Poonyarak Cheerawanichkun       Alex1#2639          AlexPoonyarak    poonyarak_c@hotmail.com             
 Csizmadia Géza Gergő            zimavagyok#0606     zimavagyok       csizmadiagergoo@gmail.com
 Nitin Hemnani                   nitinhemnani#2075   nitinhemnani     hemnani.nitin@yahoo.com
