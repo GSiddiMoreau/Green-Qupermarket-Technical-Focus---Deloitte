@@ -33,7 +33,7 @@ In addiction, the submission for the Green-Qupermarket-Business-Focus---Deloitte
 
 Here is the list of files for the Technical focus:
 
-'''
+```
 WHACK2022_team_Qrious.pdf      - technical report for the challenge
 Dwave_CQM_implementation.py    - Python source code for the time integral cost function as a CQM 
                                  for conventional simulated annealing and quantum annealers
@@ -45,13 +45,13 @@ insta_optimiz_Dwave.ipynb      - Python source code for the instantaneous cost f
 qupermarket_car_data.csv       - auxiliary csv file extracted from the excel provided as input
 qupermarket_weather_data.csv   - auxiliary csv file extracted from the excel provided as input
 WomaniumChallenge.xlsx         - excel file provided as input
-'''
+```
 
 Here is the list of files for the Business focus:
-'''
+```
 'Qrious Deloitte - Outline.pdf' - executive presentation for Business focus
 'Qrious Business                - Excel of Business focus in detail
-'''
+```
 
 
 
