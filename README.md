@@ -50,7 +50,7 @@ WomaniumChallenge.xlsx         - excel file provided as input
 Here is the list of files for the Business focus:
 ```
 'Qrious Deloitte - Outline.pdf' - executive presentation for Business focus
-'Qrious Business                - Excel of Business focus in detail
+'Qrious Business.xlsx'          - Excel of Business focus in detail
 ```
 
 
