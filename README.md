@@ -37,9 +37,9 @@ Here is the list of files for the Technical focus:
 WHACK2022_team_Qrious.pdf      - technical report for the challenge
 Dwave_CQM_implementation.py    - Python source code for the time integral cost function as a CQM 
                                  for conventional simulated annealing and quantum annealers
-insta_optimiz_QAOA.ipynb       - Python source code for the instantaneous cost function as  
+insta_optimiz_QAOA.ipynb       - Python notebook for the instantaneous cost function as  
                                  conventional CPLEX e QAOA optimization on simulator.
-insta_optimiz_Dwave.ipynb      - Python source code for the instantaneous cost function as  
+insta_optimiz_Dwave.ipynb      - Python notebook for the instantaneous cost function as  
                                  conventional simulated annealing e quantum annealers.
 
 qupermarket_car_data.csv       - auxiliary csv file extracted from the excel provided as input
